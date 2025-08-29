@@ -1,4 +1,4 @@
-# Stuck In A Dungeon
+# Advanced Computer Vision with Tensorflow - A course from DeepLearning.ai
 ## Introduction
 This is the projects done after every module in the course provided by Andrew Ng's DeepLearning.ai. There are 4 projects in total for 4 different topics. The project details could be found below. The topics and models covered in each module include:
 
@@ -22,8 +22,8 @@ This is the projects done after every module in the course provided by Andrew Ng
   
   Results: The boxes my model generated match 99.58% of the ground truth boxes with a relative tolerance of 0.3.
   
-  <img src="https://github.com/ngol0/DungeonStuck/blob/main/input.gif" width="900" title="one-frame">
-  <img src="https://github.com/ngol0/DungeonStuck/blob/main/input.gif" width="900" title="one-frame">
+  <img src="https://github.com/ngol0/advanced-computer-vision-learning/blob/main/gif_frame_189.jpg" width="900" title="one-frame">
+  <img src="https://github.com/ngol0/advanced-computer-vision-learning/blob/main/gif_frame_236.jpg" width="900" title="one-frame2">
   
 * #### Image Segmentation: (on-going)
   
