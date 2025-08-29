@@ -1,6 +1,6 @@
 # Advanced Computer Vision with Tensorflow - A course from DeepLearning.ai
 ## Introduction
-This is the projects done after every module in the course provided by Andrew Ng's DeepLearning.ai. There are 4 projects in total for 4 different topics. The project details could be found below. The topics and models covered in each module include:
+This is the projects done after every module in the course provided by Andrew Ng's [DeepLearning.ai](https://www.coursera.org/learn/advanced-computer-vision-with-tensorflow/). There are 4 projects in total for 4 different topics. The project details could be found below. The topics and models covered in each module include:
 
 *1. Transfer learning:* transfer learning with ResNet50, object localization model architecture, evaluating object localization. 
 
@@ -9,6 +9,7 @@ This is the projects done after every module in the course provided by Andrew Ng
 *3. Image segmentation:* model architecture of U-Net, segmentation implemention with FCN
 
 *4. Visualization and Interpretability:* visualize model predictions and understand CNNs
+
 
 ## Project Details
 * #### Transfer Learning:
