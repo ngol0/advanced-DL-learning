@@ -10,7 +10,9 @@ This is the projects done after every module in the course provided by Andrew Ng
 ## Project Details
 * #### Transfer Learning:
   Objective: Retrain RetinaNet to spot Zombies using just 5 training images.
+  
   Task: Setup the model to restore pretrained weights and fine tune the classification layers.
+  
   Results: The boxes my model generated match 99.58% of the ground truth boxes with a relative tolerance of 0.3.
   
 * #### Object Detection
