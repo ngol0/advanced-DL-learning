@@ -1,22 +1,30 @@
 # Stuck In A Dungeon
 ## Introduction
-This is the projects done after every module in the course provided by Andrew Ng's DeepLearning.ai. There are 4 projects in total, including topics:
+This is the projects done after every module in the course provided by Andrew Ng's DeepLearning.ai. There are 4 projects in total for 4 different topics. The project details could be found below. The topics and models covered in each module include:
 
-1. Transfer learning
-2. Object Detection
-3. Image segmentation
-4. Visualization and Interpretability
+1. Transfer learning: transfer learning with ResNet50, object localization model architecture, evaluating object localization.
+2. Object Detection: model architecture of R-CNN, Fast R-CNN, Faster R-CNN, finetune RetinaNet.
+3. Image segmentation: model architecture of U-Net, segmentation implemention with FCN
+4. Visualization and Interpretability: visualize model predictions and understand CNNs
 
 ## Project Details
 * #### Transfer Learning:
+  Objective: uild a model to predict bounding boxes around images.
+
+  Task: Use transfer learning on any of the pre-trained models available in Keras. Dataset: Caltech Birds - 2010 dataset.
+
+  Resutls: iou score greater than 0.5 for 49.20% of the images.
+  
+* #### Object Detection:
   Objective: Retrain RetinaNet to spot Zombies using just 5 training images.
   
   Task: Setup the model to restore pretrained weights and fine tune the classification layers.
   
   Results: The boxes my model generated match 99.58% of the ground truth boxes with a relative tolerance of 0.3.
   
-* #### Object Detection
+  <img src="https://github.com/ngol0/DungeonStuck/blob/main/input.gif" width="900" title="one-frame">
+  <img src="https://github.com/ngol0/DungeonStuck/blob/main/input.gif" width="900" title="one-frame">
   
-* #### Image Segmentation:
+* #### Image Segmentation: (on-going)
   
-* #### Visualization and Interpretability:
+* #### Visualization and Interpretability: (on-going)
