@@ -6,13 +6,14 @@ This is the projects done after every module in the course provided by Andrew Ng
   transfer learning with ResNet50, object localization model architecture, evaluating object localization. 
 
 * #### Object Detection:
-  model architecture of R-CNN, Fast R-CNN, Faster R-CNN, finetune RetinaNet. \n
+  model architecture of R-CNN, Fast R-CNN, Faster R-CNN, finetune RetinaNet.
 
 * #### Image Segmentation:
   model architecture of U-Net, segmentation implemention with FCN
 
 * #### Visualization and Interpretability:
   visualize model predictions and understand CNNs
+
 
 
 ## Project Details
