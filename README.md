@@ -1,6 +1,8 @@
 # Advanced Deep Learning with Tensorflow - Courses by DeepLearning.ai
 ## Introduction
-This is the projects done after every module in the 2 courses provided by Andrew Ng's DeepLearning.ai, including: [Advanced Computer Vision](https://www.coursera.org/learn/advanced-computer-vision-with-tensorflow/) and [Deep Generative Modelling](https://www.coursera.org/learn/generative-deep-learning-with-tensorflow/). Each course has 4 projects in total for 4 different topics (so 8 in total for 2 courses). The project details for relevant topics could be found below. The topics and models covered in each module include:
+These are the projects completed at the end of each module in two DeepLearning.AI courses by Andrew Ng: [Advanced Computer Vision](https://www.coursera.org/learn/advanced-computer-vision-with-tensorflow/) and [Deep Generative Modelling](https://www.coursera.org/learn/generative-deep-learning-with-tensorflow/). 
+
+Each course consists of 4 modules, with one project per module. The project details for relevant topics could be found below. The topics and models covered in each module include:
 
 * #### Transfer Learning and Style Learning:
   - transfer learning with ResNet50, object localization model architecture, evaluating object localization. 
