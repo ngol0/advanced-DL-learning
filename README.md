@@ -32,7 +32,7 @@ Projects that explore computer vision techniques and generative deep learning mo
   
   *Results:* The boxes my model generated match 99.58% of the ground truth boxes with a relative tolerance of 0.3.
   
-  <img src="https://github.com/ngol0/advanced-computer-vision-learning/blob/main/gif_frame_236.jpg" width="900" title="one-frame2">
+  <img src="https://github.com/ngol0/advanced-computer-vision-learning/blob/main/exe2.jpg" width="900" title="one-frame2">
   
 * #### Image Segmentation:
   *Main Objective:* Build a model that predicts the segmentation masks (pixel-wise label map) of handwritten digits. This model will be trained on the M2NIST dataset, a multi digit MNIST.
