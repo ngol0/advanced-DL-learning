@@ -21,9 +21,7 @@ This is the projects done after every module in the 2 courses provided by Andrew
 Projects that explore computer vision techniques and generative deep learning models. 
 
 * #### VAEs:
-  *Main Objective:* 
-
-  *Specific Tasks:* 
+  *Main Objective:* Train a Variational Autoencoder (VAE) using the anime faces dataset by MckInsey666. Then use this model to generate a gallery of anime faces.
 
   *Resutls:* 
   
