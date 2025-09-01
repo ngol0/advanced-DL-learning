@@ -1,4 +1,4 @@
-# Advanced Deep Learning with Tensorflow - A course from DeepLearning.ai
+# Advanced Deep Learning with Tensorflow - Courses by DeepLearning.ai
 ## Introduction
 This is the projects done after every module in the 2 courses provided by Andrew Ng's DeepLearning.ai, including: [Advanced Computer Vision](https://www.coursera.org/learn/advanced-computer-vision-with-tensorflow/) and [Deep Generative Modelling](https://www.coursera.org/learn/generative-deep-learning-with-tensorflow/). There are 4 projects in total for 4 different topics. The project details could be found below. The topics and models covered in each module include:
 
