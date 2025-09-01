@@ -20,7 +20,7 @@ Projects that explore computer vision techniques and generative deep learning mo
 
   *Resutls:* 
   
-* #### Object Detection:
+### Object Detection:
   *Main Objective:* Retrain **RetinaNet** to spot Zombies using just 5 training images.
   
   *Specific Tasks:* Setup the model to restore pretrained weights and fine tune the classification layers.
@@ -29,7 +29,7 @@ Projects that explore computer vision techniques and generative deep learning mo
   
   <img src="https://github.com/ngol0/advanced-computer-vision-learning/blob/main/exe2.jpg" width="900" title="one-frame2">
   
-* #### Image Segmentation:
+### Image Segmentation:
   *Main Objective:* Build a model that predicts the segmentation masks (pixel-wise label map) of handwritten digits. This model will be trained on the M2NIST dataset, a multi digit MNIST.
   
   *Specific Tasks:*  Build a Convolutional Neural Network (CNN) from scratch for the downsampling path and use a Fully Convolutional Network, FCN-8, to upsample and produce the pixel-wise label map. The model will be evaluated using the intersection over union (IOU) and Dice Score. 
@@ -38,4 +38,4 @@ Projects that explore computer vision techniques and generative deep learning mo
   
   <img src="https://github.com/ngol0/advanced-computer-vision-learning/blob/main/exe3.png" width="900" title="one-frame2">
   
-* #### Visualization and Interpretability: (on-going)
+### Visualization and Interpretability: (on-going)
