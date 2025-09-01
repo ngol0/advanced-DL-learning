@@ -4,9 +4,6 @@ These are the projects completed at the end of each module in two DeepLearning.A
 
 Each course consists of 4 modules, with one project per module. The project details for relevant topics could be found below. The topics and models covered in each module include:
 
-* #### Transfer Learning and Style Learning:
-  - transfer learning with ResNet50, object localization model architecture, evaluating object localization. 
-
 * **Object Detection:** model architecture of R-CNN, Fast R-CNN, Faster R-CNN, finetune RetinaNet.
 
 * **Image Segmentation:** model architecture of U-Net, segmentation implemention with FCN
