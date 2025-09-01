@@ -40,6 +40,6 @@ This is the projects done after every module in the course provided by Andrew Ng
   
   *Results:* IOU score of 75% when compared against the true segments.
   
-  <img src="https://github.com/ngol0/advanced-computer-vision-learning/blob/main/gif_frame_236.jpg" width="900" title="one-frame2">
+  <img src="https://github.com/ngol0/advanced-computer-vision-learning/blob/main/exe3.jpg" width="900" title="one-frame2">
   
 * #### Visualization and Interpretability: (on-going)
