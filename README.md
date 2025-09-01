@@ -38,7 +38,7 @@ This is the projects done after every module in the course provided by Andrew Ng
   
   *Specific Tasks:*  Build a Convolutional Neural Network (CNN) from scratch for the downsampling path and use a Fully Convolutional Network, FCN-8, to upsample and produce the pixel-wise label map. The model will be evaluated using the intersection over union (IOU) and Dice Score. 
   
-  *Results:* IOU score of 75% when compared against the true segments.
+  *Results:* average IOU score of 75% when compared against the true segments.
   
   <img src="https://github.com/ngol0/advanced-computer-vision-learning/blob/main/exe3.png" width="900" title="one-frame2">
   
