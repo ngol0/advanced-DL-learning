@@ -7,17 +7,13 @@ Each course consists of 4 modules, with one project per module. The project deta
 * #### Transfer Learning and Style Learning:
   - transfer learning with ResNet50, object localization model architecture, evaluating object localization. 
 
-* #### Object Detection:
-  model architecture of R-CNN, Fast R-CNN, Faster R-CNN, finetune RetinaNet.
+* **Object Detection:** model architecture of R-CNN, Fast R-CNN, Faster R-CNN, finetune RetinaNet.
 
-* #### Image Segmentation:
-  model architecture of U-Net, segmentation implemention with FCN
+* **Image Segmentation:** model architecture of U-Net, segmentation implemention with FCN
+  
+* **Visualization and Interpretability:** visualize model predictions and understand CNNs
 
-* #### Visualization and Interpretability:
-  visualize model predictions and understand CNNs
-
-* #### Deep Generative Modelling:
-  VAEs and GANs
+* **Deep Generative Modelling:** VAEs and GANs
 
 ## Project Details
 Projects that explore computer vision techniques and generative deep learning models. 
