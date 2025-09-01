@@ -22,7 +22,7 @@ This is the projects done after every module in the course provided by Andrew Ng
 
   *Specific Tasks:* Use transfer learning with the pre-trained model **MobileNet-V2** to train a new model. Dataset: Caltech Birds - 2010 dataset.
 
-  *Resutls:* iou score greater than 0.5 for 49.20% of the images.
+  *Resutls:* IOU score greater than 0.5 for 49.20% of the images.
   
 * #### Object Detection:
   *Main Objective:* Retrain **RetinaNet** to spot Zombies using just 5 training images.
@@ -31,9 +31,15 @@ This is the projects done after every module in the course provided by Andrew Ng
   
   *Results:* The boxes my model generated match 99.58% of the ground truth boxes with a relative tolerance of 0.3.
   
-  <img src="https://github.com/ngol0/advanced-computer-vision-learning/blob/main/gif_frame_189.jpg" width="900" title="one-frame">
   <img src="https://github.com/ngol0/advanced-computer-vision-learning/blob/main/gif_frame_236.jpg" width="900" title="one-frame2">
   
-* #### Image Segmentation: (on-going)
+* #### Image Segmentation:
+  *Main Objective:* Build a model that predicts the segmentation masks (pixel-wise label map) of handwritten digits. This model will be trained on the M2NIST dataset, a multi digit MNIST.
+  
+  *Specific Tasks:*  Build a Convolutional Neural Network (CNN) from scratch for the downsampling path and use a Fully Convolutional Network, FCN-8, to upsample and produce the pixel-wise label map. The model will be evaluated using the intersection over union (IOU) and Dice Score. 
+  
+  *Results:* IOU score of 75% when compared against the true segments.
+  
+  <img src="https://github.com/ngol0/advanced-computer-vision-learning/blob/main/gif_frame_236.jpg" width="900" title="one-frame2">
   
 * #### Visualization and Interpretability: (on-going)
