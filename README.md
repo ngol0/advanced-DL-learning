@@ -16,9 +16,9 @@ Each course consists of 4 modules, with one project per module. The project deta
 Projects that explore computer vision techniques and generative deep learning models. 
 
 ### VAEs:
-  *Main Objective:* Train a Variational Autoencoder (VAE) using the anime faces dataset by MckInsey666. Then use this model to generate a gallery of anime faces.
+*  *Main Objective:* Train a Variational Autoencoder (VAE) using the anime faces dataset by MckInsey666. Then use this model to generate a gallery of anime faces.
 
-  *Resutls:* 
+*  *Resutls:* 
   
 ### Object Detection:
   *Main Objective:* Retrain **RetinaNet** to spot Zombies using just 5 training images.
