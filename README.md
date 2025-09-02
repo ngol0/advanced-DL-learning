@@ -32,7 +32,7 @@ These projects explore advanced computer vision techniques and generative deep l
 ### 3. GANs:
 *  *Main Objective:* Build a Generative Adversarial Network (GAN) that generates pictures of hands. Trained on a dataset of hand images doing sign language.
 
-*  *Resutls:* 
+*  *Resutls:* 62.50% of images were classified as hands with a confidence greater than 60% by a hand classifier.
   
 ### 4. Object Detection:
 *  *Main Objective:* Retrain **RetinaNet** to spot Zombies using just 5 training images.
@@ -55,5 +55,5 @@ These projects explore advanced computer vision techniques and generative deep l
 ### 6. Visualization and Interpretability: (on-going)
 
 ## Certificates
-*  [Generative Deep Learning](https://www.coursera.org/learn/generative-deep-learning-with-tensorflow/)
+*  [Generative Deep Learning](https://www.coursera.org/account/accomplishments/verify/EOEXLWZN36BW)
   <img src="https://github.com/ngol0/advanced-computer-vision-learning/blob/main/cert.png" width="700" title="certificate">
