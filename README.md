@@ -50,7 +50,7 @@ These projects explore advanced computer vision techniques and generative deep l
   
 *  *Results:* average IOU score of 75% when compared against the true segments.
   
-  <img src="https://github.com/ngol0/advanced-computer-vision-learning/blob/main/advanced-computer-vision/exe3.png" width="800" title="semgmentation">
+  <img src="https://github.com/ngol0/advanced-computer-vision-learning/blob/main/cert.png" width="800" title="semgmentation">
   
 ### 6. Visualization and Interpretability: (on-going)
 
