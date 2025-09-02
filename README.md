@@ -30,7 +30,7 @@ These projects explore advanced computer vision techniques and generative deep l
    <img src="https://github.com/ngol0/advanced-computer-vision-learning/blob/main/generative-models/vae.png" width="600" title="vae">
 
 ### 3. GANs:
-*  *Main Objective:* 
+*  *Main Objective:* Build a Generative Adversarial Network (GAN) that generates pictures of hands. Trained on a dataset of hand images doing sign language.
 
 *  *Resutls:* 
   
@@ -50,6 +50,10 @@ These projects explore advanced computer vision techniques and generative deep l
   
 *  *Results:* average IOU score of 75% when compared against the true segments.
   
-  <img src="https://github.com/ngol0/advanced-computer-vision-learning/blob/main/advanced-computer-vision/exe3.png" width="600" title="semgmentation">
+  <img src="https://github.com/ngol0/advanced-computer-vision-learning/blob/main/advanced-computer-vision/exe3.png" width="800" title="semgmentation">
   
 ### 6. Visualization and Interpretability: (on-going)
+
+## Certificates
+*  [Generative Deep Learning](https://www.coursera.org/learn/generative-deep-learning-with-tensorflow/)
+  <img src="https://github.com/ngol0/advanced-computer-vision-learning/blob/main/advanced-computer-vision/exe3.png" width="800" title="semgmentation">
