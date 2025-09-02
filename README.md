@@ -10,13 +10,26 @@ Each course consists of 4 modules, with one project per module. The project deta
   
 * **Visualization and Interpretability:** visualize model predictions and understand CNNs
 
-* **Deep Generative Modelling:** VAEs and GANs
+* **Deep Generative Modelling:** style transfer, VAEs and GANs
 
 ## Project Details
 These projects explore advanced computer vision techniques and generative deep learning models. Each project focuses on applying a specific model or technique to a practical dataset.
 
+### Style Transfer:
+*  *Main Objective:* Implement neural style transfer using the Inception model as feature extractor.
+
+*  *Resutls:* A new image of the original dog (left) with the style of the right image.
+
+  <img src="https://github.com/ngol0/advanced-computer-vision-learning/blob/main/generative-models/original.png" width="450" title="one-frame2">
+  <img src="https://github.com/ngol0/advanced-computer-vision-learning/blob/main/generative-models/doggo.png" width="450" title="one-frame2">
+
 ### VAEs:
 *  *Main Objective:* Train a Variational Autoencoder (VAE) using the anime faces dataset by MckInsey666. Then use this model to generate a gallery of anime faces.
+
+*  *Resutls:*
+
+### GANs:
+*  *Main Objective:* 
 
 *  *Resutls:* 
   
@@ -27,7 +40,7 @@ These projects explore advanced computer vision techniques and generative deep l
   
 *  *Results:* The boxes my model generated match 99.58% of the ground truth boxes with a relative tolerance of 0.3.
   
-  <img src="https://github.com/ngol0/advanced-computer-vision-learning/blob/main/exe2.jpg" width="900" title="one-frame2">
+  <img src="https://github.com/ngol0/advanced-computer-vision-learning/blob/main/advanced-computer-vision/exe2.jpg" width="900" title="one-frame2">
   
 ### Image Segmentation:
 *  *Main Objective:* Build a model that predicts the segmentation masks (pixel-wise label map) of handwritten digits. This model will be trained on the M2NIST dataset, a multi digit MNIST.
@@ -36,6 +49,6 @@ These projects explore advanced computer vision techniques and generative deep l
   
 *  *Results:* average IOU score of 75% when compared against the true segments.
   
-  <img src="https://github.com/ngol0/advanced-computer-vision-learning/blob/main/exe3.png" width="900" title="one-frame2">
+  <img src="https://github.com/ngol0/advanced-computer-vision-learning/blob/main/advanced-computer-vision/exe3.png" width="900" title="one-frame2">
   
 ### Visualization and Interpretability: (on-going)
