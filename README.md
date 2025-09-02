@@ -49,7 +49,7 @@ These projects explore advanced computer vision techniques and generative deep l
 *  *Specific Tasks:*  Build a Convolutional Neural Network (CNN) from scratch for the downsampling path and use a Fully Convolutional Network, FCN-8, to upsample and produce the pixel-wise label map. The model will be evaluated using the intersection over union (IOU) and Dice Score. 
   
 *  *Results:* average IOU score of 75% when compared against the true segments.
-  <img src="https://github.com/ngol0/advanced-computer-vision-learning/blob/main/advanced-computer-vision/exe3.png" width="800" title="semgmentation">
+  <img src="https://github.com/ngol0/advanced-computer-vision-learning/blob/main/advanced-computer-vision/exe3.png" width="700" title="semgmentation">
   
   
 ### 6. Visualization and Interpretability: (on-going)
