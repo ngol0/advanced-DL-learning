@@ -43,17 +43,24 @@ These projects explore advanced computer vision techniques and generative deep l
   
   <img src="https://github.com/ngol0/advanced-computer-vision-learning/blob/main/advanced-computer-vision/exe2.jpg" width="600" title="zombie-detection">
   
-### 5. Image Segmentation:
+### 5. Image Segmentation 1:
 *  *Main Objective:* Build a model that predicts the segmentation masks (pixel-wise label map) of handwritten digits. This model will be trained on the M2NIST dataset, a multi digit MNIST.
   
 *  *Specific Tasks:*  Build a Convolutional Neural Network (CNN) from scratch for the downsampling path and use a Fully Convolutional Network, FCN-8, to upsample and produce the pixel-wise label map. The model will be evaluated using the intersection over union (IOU) and Dice Score. 
   
 *  *Results:* average IOU score of 75% when compared against the true segments.
   <img src="https://github.com/ngol0/advanced-computer-vision-learning/blob/main/advanced-computer-vision/exe3.png" width="800" title="semgmentation">
+
+### 6. Image Segmentation 2:
+*  *Main Objective:* Create a U-Net model using [Segmentation Models]() with loaded Imagenet weights. Then train and evaluate the model for image segmentation task.
   
+*  *Specific Tasks:* Load and augment dataset. Train and evaluate model.
   
-### 6. Visualization and Interpretability: (on-going)
+*  *Results:* 
+  <img src="https://github.com/ngol0/advanced-computer-vision-learning/blob/main/advanced-computer-vision/more.png" width="800" title="semgmentation">  
 
 ## Certificates
 *  [Generative Deep Learning](https://www.coursera.org/account/accomplishments/verify/EOEXLWZN36BW)
   <img src="https://github.com/ngol0/advanced-computer-vision-learning/blob/main/cert.png" width="700" title="certificate">
+*  [Advanced Computer Vision](https://www.coursera.org/account/accomplishments/verify/XRA8U3OZPRW8)
+  <img src="https://github.com/ngol0/advanced-computer-vision-learning/blob/main/cert2.png" width="700" title="certificate">
