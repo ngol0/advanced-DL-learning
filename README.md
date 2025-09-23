@@ -60,5 +60,6 @@ These projects explore advanced computer vision techniques and generative deep l
 ## Certificates
 *  [Generative Deep Learning](https://www.coursera.org/account/accomplishments/verify/EOEXLWZN36BW)
   <img src="https://github.com/ngol0/advanced-computer-vision-learning/blob/main/cert.png" width="700" title="certificate">
+  
 *  [Advanced Computer Vision](https://www.coursera.org/account/accomplishments/verify/XRA8U3OZPRW8)
   <img src="https://github.com/ngol0/advanced-computer-vision-learning/blob/main/cert2.png" width="700" title="certificate">
