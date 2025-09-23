@@ -52,12 +52,10 @@ These projects explore advanced computer vision techniques and generative deep l
   <img src="https://github.com/ngol0/advanced-computer-vision-learning/blob/main/advanced-computer-vision/exe3.png" width="800" title="semgmentation">
 
 ### 6. Image Segmentation 2:
-*  *Main Objective:* Create a U-Net model using [Segmentation Models]() with loaded Imagenet weights. Then train and evaluate the model for image segmentation task.
-  
-*  *Specific Tasks:* Load and augment dataset. Train and evaluate model.
+*  *Main Objective:* Load and augment the dataset. Create a U-Net model using [Segmentation Models](https://smp.readthedocs.io/en/latest/models.html#unet) with loaded Imagenet weights. Then train and evaluate the model for image segmentation task.
   
 *  *Results:* 
-  <img src="https://github.com/ngol0/advanced-computer-vision-learning/blob/main/advanced-computer-vision/more.png" width="800" title="semgmentation">  
+  <img src="https://github.com/ngol0/advanced-computer-vision-learning/blob/main/advanced-computer-vision/more.png" width="600" title="semgmentation">  
 
 ## Certificates
 *  [Generative Deep Learning](https://www.coursera.org/account/accomplishments/verify/EOEXLWZN36BW)
